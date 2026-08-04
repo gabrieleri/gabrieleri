@@ -1,16 +1,15 @@
-## Hi there 👋
+## FantaYouPong
 
-<!--
-**gabrieleri/gabrieleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creator and Lead Developer of FantaYouPong, a fantasy game for Italian table tennis.
 
-Here are some ideas to get you started:
+I designed and developed:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- the Flutter mobile application;
+- Firebase and Firestore architecture;
+- the administration platform;
+- scoring and season-management systems;
+- the public launch architecture;
+- registration, payment and entitlement workflows;
+- the technical roadmap and AI-assisted development workflow.
+
+Official organization: @FantaYouPong
